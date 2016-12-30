@@ -20,7 +20,7 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 
 This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
 
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner. 
+My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
 This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
 
 Please, feel free to make any contributions you feel will make it better.
@@ -96,13 +96,13 @@ I'm a Vietnamese Software Engineer who is really passionate and wants to work in
 
 How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
 
-I'm on the journey. 
+I'm on the journey.
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
 | ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
 |:---:|
-| USA as heck | 
+| USA as heck |
 
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
@@ -133,10 +133,10 @@ Each subject does not require a whole day to be able to understand it fully, and
 Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python or R.
 
 # Motivation
-- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
-- [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
@@ -288,7 +288,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
 - [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
-- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
+- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
